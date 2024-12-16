@@ -36,7 +36,7 @@ export default function Feature() {
                     </div>
                 </div>
                 <p className="text-sm md:text-base text-black mb-6 px-4 animate-fade-in-down delay-100 mt-10">
-                    Explore our wide array of gaming categories, offering a treasure trove of information and insights tailored to your passion for games. Each section features thoughtfully crafted blogs that dive into the latest gaming trends, iconic titles, and tips to enhance your skills. Whether you're a casual gamer, a competitive player, or simply curious about the gaming universe, there&rsquo;s something exciting waiting for you. Browse through the categories below to expand your knowledge and dive into the thrilling world of gaming.
+                    Explore our wide array of gaming categories, offering a treasure trove of information and insights tailored to your passion for games. Each section features thoughtfully crafted blogs that dive into the latest gaming trends, iconic titles, and tips to enhance your skills. Whether you&rsquo;re a casual gamer, a competitive player, or simply curious about the gaming universe, there&rsquo;s something exciting waiting for you. Browse through the categories below to expand your knowledge and dive into the thrilling world of gaming.
                     </p>
             </section>
         </div>
